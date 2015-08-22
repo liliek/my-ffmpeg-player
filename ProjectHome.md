@@ -1,0 +1,1 @@
+As MediaPlayer provided by android is not stable and isn't suitable for developing decoder plug-in,and the other alternative player,such as VLC,Mplayer, is still unavailable, I launched the project for porting ffmpeg using JNI
